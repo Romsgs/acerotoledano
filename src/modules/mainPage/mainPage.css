@@ -1,0 +1,8 @@
+.MainPageContainer{
+  max-width: 1000px;
+  height: 100%;
+  background-color: darkred;
+  opacity: 0.8;
+  border-radius: 15px;
+  padding: 10px;
+}
